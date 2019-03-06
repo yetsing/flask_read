@@ -13,6 +13,6 @@ PyCharm  + Python3.6
 
 [v0.5 模块化](https://github.com/yetsing/flask_read/blob/master/doc/v0.5.md)
 
-[v0.7](https://github.com/yetsing/flask_read/blob/master/doc/v0.7.md)
+[v0.7 增加蓝本(Blueprint)](https://github.com/yetsing/flask_read/blob/master/doc/v0.7.md)
 
 [v1.0 最新版](https://github.com/yetsing/flask_read/blob/master/doc/v1.0.md)
