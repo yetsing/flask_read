@@ -15,4 +15,4 @@ PyCharm  + Python3.6
 
 [v0.7 增加蓝本(Blueprint)](https://github.com/yetsing/flask_read/blob/master/doc/v0.7.md)
 
-[v1.0 最新版](https://github.com/yetsing/flask_read/blob/master/doc/v1.0.md)
+[v1.0.2 最新版](https://github.com/yetsing/flask_read/blob/master/doc/v1.0.2.md)
