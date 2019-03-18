@@ -30,11 +30,13 @@ def make_server(host=None, port=None, app=None, threaded=False, processes=1,
 
 如 server_forever 指向 _handle_request_noblock 表示 server_forever() 函数中调用了 _handle_request_noblock() 函数
 
-![调用流程图]()
+![调用流程图](../image/BaseWSGIServer.png)
 
 接下来则是 ThreadedWSGIServer 类的函数调用流程图
 
-![调用流程图]()
+![调用流程图](../image/ThreadedWSGIServer.png)
+
+它使用 ThreadingMixin 类实现多线程
 
 最后则是 ForkingWSGIServer 类的函数调用流程图才怪，由于我的是 Windows 系统，不支持 fork 调用，因此无法使用 flask 的多进程 WSGI 服务器。(┬＿┬)
 
