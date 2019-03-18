@@ -21,6 +21,8 @@ PyCharm  + Python3.6
 
 对于最新的版本，我选择自己感兴趣的一些功能入手，探究具体的实现方式，尽量做到追根溯源。
 
-[app 路径]((https://github.com/yetsing/flask_read/blob/master/doc/path.md)
+[app 路径](https://github.com/yetsing/flask_read/blob/master/doc/path.md)
 
-[路由注册和匹配]((https://github.com/yetsing/flask_read/blob/master/doc/route.md)
+[路由注册和匹配](https://github.com/yetsing/flask_read/blob/master/doc/route.md)
+
+[内置 WSGI 服务器](https://github.com/yetsing/flask_read/blob/master/doc/wsgi_server.md)
