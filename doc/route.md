@@ -241,7 +241,7 @@ index() 和 what() 这两个函数的端点(endpoint)都是 decorator ，于是�
 
 当然除了直接指定端点名，我们还能用另一种方法解决。
 
-使用 functools 模块的 wraps() 函数改变函数的一些属性，其中就包括函数的 \__name_\_ 属性
+使用 functools 模块的 wraps() 函数改变函数的一些属性，其中就包括函数的 \_\_name\_\_ 属性
 
 ```python
 from functools import wraps
